@@ -1,0 +1,30 @@
+/****************************************************************************
+* COSC2131 - Programming Using C++
+* Semester 1 2013 Assignment #1
+* Full Name        : Nguyen Quoc Trong Nghia
+* Student Number   : s3343711
+****************************************************************************/
+
+If selected, do you grant permission for your assignment
+to be released as an anonymous student sample solution?
+--------------------------------------------------------
+No
+
+Known bugs:
+-----------
+cin buffer sometimes appears
+
+
+Incomplete functionality:
+-------------------------
+No extra features
+
+
+Assumptions:
+------------
+no
+
+Any other notes for the marker:
+-------------------------------
+Assignment directory:
+/home/s3343711/cosc2131/Assignment1
